@@ -5,6 +5,7 @@ The data file biometric-scores.txt provides the biometric scores between pairs f
 
 Condiation:
 1  same identity
+
 2  different identity (same race/gender)
 3  same identity (chatGPT unmasked)
 4  same identity (chatGPT unmasked US Senators)
